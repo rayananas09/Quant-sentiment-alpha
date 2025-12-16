@@ -23,5 +23,11 @@ FinBERT produced materially stronger performance than the VADER baseline on the 
 | VADER   | 0.786 |
 | FinBERT | 6.481 |
 
+## Strategy Performance
+
+**VADER vs FinBERT cumulative portfolio returns**
+
+![VADER vs FinBERT](figures/vader_vs_finbert.png)
+
 
 
