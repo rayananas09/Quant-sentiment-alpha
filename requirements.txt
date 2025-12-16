@@ -1,0 +1,9 @@
+pandas
+numpy
+yfinance
+matplotlib
+vaderSentiment
+transformers
+torch
+scikit-learn
+
